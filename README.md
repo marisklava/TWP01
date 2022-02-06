@@ -1,2 +1,3 @@
-# TWP01
-Tīmekļa vietņu programmēšana github pages uzdevums | Māris Ingus Kļava DP3-1
+# Hello World!
+Tīmekļa vietņu programmēšana - github pages uzdevums 
+###### _Ar cieņu - Māris Ingus Kļava, DP3-1_
